@@ -1,4 +1,3 @@
-# FitnessTrackerApp
 # Health and Fitness Tracker
 
 The Health and Fitness Tracker is a simple Java Swing application designed to help users track their physical activity and calculate important health metrics such as calories burned, Body Mass Index (BMI), and health score. The app provides suggestions on daily calorie intake based on the user's BMI and visual feedback through color-coded health scores.
