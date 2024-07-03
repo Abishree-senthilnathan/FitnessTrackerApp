@@ -44,7 +44,7 @@ The Health and Fitness Tracker is a simple Java Swing application designed to he
 
 ## Screenshots
 
-(![Screenshot (515)](https://github.com/Abishree-senthilnathan/FitnessTrackerApp/assets/160491315/fec4de3e-8b5a-4996-80d7-22e2f6e70421)
+![Screenshot (515)](https://github.com/Abishree-senthilnathan/FitnessTrackerApp/assets/160491315/fec4de3e-8b5a-4996-80d7-22e2f6e70421)
 ![Screenshot (516)](https://github.com/Abishree-senthilnathan/FitnessTrackerApp/assets/160491315/6c1340c6-4303-4113-9a66-4eca3526193e)
 ![Screenshot (514)](https://github.com/Abishree-senthilnathan/FitnessTrackerApp/assets/160491315/10eee2b1-10b4-455a-89ad-cc9f8b77838f)
 
