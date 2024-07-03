@@ -92,10 +92,6 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 4. Push to the branch: `git push origin feature/your-feature-name`.
 5. Open a pull request.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 - Inspiration for the project comes from the need to track personal fitness and health metrics easily and effectively.
